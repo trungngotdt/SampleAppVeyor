@@ -1,0 +1,8 @@
+language: csharp
+solution: SampleAppVeyor.sln
+install:
+  - nuget restore SampleAppVeyor.sln
+  - nuget install NUnit.Runners -Version 3.7.0 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release SampleAppVeyor.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.7.0/tools/nunit3-console.exe ./Calculator.Test/bin/Release/Calculator.Test.dll
