@@ -1,0 +1,7 @@
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\bin\Debug\SampleAppVeyor.exe.config
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\bin\Debug\SampleAppVeyor.exe
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\bin\Debug\SampleAppVeyor.pdb
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\obj\Debug\SampleAppVeyor.csprojResolveAssemblyReference.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\obj\Debug\SampleAppVeyor.csproj.CoreCompileInputs.cache
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\obj\Debug\SampleAppVeyor.exe
+C:\Users\Tran\Documents\Visual Studio 2017\Projects\SampleAppVeyor\SampleAppVeyor\obj\Debug\SampleAppVeyor.pdb
